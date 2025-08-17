@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="add_item_text">Добавить предмет в список покупок</string>
+    <string name="title_activity_shoplist_edit">ShoplistEditActivity</string>
+    <string name="sure">Хотите удалить предмет из списка покупок?</string>
+    <string name="agree">Да</string>
+    <string name="notagree">Нет</string>
+    <string name="shoplist">Список покупок</string>
+</resources>
